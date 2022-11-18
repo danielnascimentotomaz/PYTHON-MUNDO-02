@@ -8,7 +8,7 @@ while s < 10:
     s = s + 1
     print(s, end=' ')"""
 
-"""# contagem regressia
+"""# contagem regressa
 s = 11
 while s > 1:
     s = s - 1

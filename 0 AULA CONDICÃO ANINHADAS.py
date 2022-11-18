@@ -2,6 +2,7 @@ nome = str(input('DIGITE SEU NOME:')).lower()
 
 if nome == 'pedro':
     print('QUE NOME BONITO VC TEM')
+
 elif nome == 'gustavo' or nome == 'bruna':
     print('NOME BEM POPULAR')
 
